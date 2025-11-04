@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaki kosz?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="banner-container">
+            <img src="segregregacja odpadów.png" alt="NIE MARNUJEMY RECYKLINGUJEMY" class="banner-image">
+        </div>
+        <header>
+            <h1>Jaki kosz?</h1>
+            <p class="subtitle">Znajdź odpowiedni pojemnik na swoje odpady</p>
+        </header>
+
+        <div class="search-section">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Wpisz nazwę odpadu (np. butelka, papier, baterie)..."
+                    autocomplete="off"
+                >
+                <button id="searchButton">Szukaj</button>
+            </div>
+        </div>
+
+        <div id="resultContainer" class="result-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
