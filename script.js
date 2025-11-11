@@ -125,6 +125,12 @@ const odpady = [
     "opis": "Możesz wyrzucić także do oznakowanego pojemnika w sklepie lub placówkach użyteczności publicznej.",
     "kolor": "gray"
   },
+    {
+    "nazwa": "bateria",
+    "kosz": "Punkt Selektywnej Zbiórki Odpadów Komunalnych Zbiórka elektroodpadów",
+    "opis": "Możesz wyrzucić także do oznakowanego pojemnika w sklepie lub placówkach użyteczności publicznej.",
+    "kolor": "gray"
+  },
   {
     "nazwa": "baterie akumulatorowe",
     "kosz": "Punkt Selektywnej Zbiórki Odpadów Komunalnych Zbiórka elektroodpadów",
@@ -1867,6 +1873,12 @@ const odpady = [
   },
   {
     "nazwa": "kubek ceramiczny",
+    "kosz": "Odpady zmieszane",
+    "opis": "",
+    "kolor": "gray"
+  },
+    {
+    "nazwa": "kubeczek menstruacyjny",
     "kosz": "Odpady zmieszane",
     "opis": "",
     "kolor": "gray"
