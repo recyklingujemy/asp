@@ -2921,6 +2921,12 @@ const odpady = [
     "opis": "",
     "kolor": "gray"
   },
+   {
+    "nazwa": "papierek po cukierku",
+    "kosz": "Odpady zmieszane",
+    "opis": "",
+    "kolor": "gray"
+  },
   {
     "nazwa": "opakowanie po mięsie (plastikowe)",
     "kosz": "Metale i tworzywa sztuczne",
